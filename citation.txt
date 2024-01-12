@@ -1,0 +1,6 @@
+@inproceedings{REPO164,
+    author = "Xie, Xianghui and Bhatnagar, Bharat Lal and Pons-Moll, Gerard",
+    booktitle = "European Conference on Computer Vision ({ECCV})",
+    title = "{CHORE: Contact, Human and Object REconstruction from a single RGB image}",
+    year = "2022"
+}
